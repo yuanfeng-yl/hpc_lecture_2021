@@ -1,0 +1,5 @@
+$ g++ cacheblocking
+
+N    : 256
+total: 0.062725 s (0.534946 GFlops)
+error: 0.000012
