@@ -1,0 +1,7 @@
+$ g++ simd.cpp -fopt-info-vec-optimized -march=native -O3
+
+result:
+N    : 256
+total: 0.005874 s (5.712762 GFlops)
+error: 0.000016
+
